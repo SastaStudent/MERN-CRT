@@ -1,9 +1,9 @@
 # Table
-border
-Cellpadding
-Cellspacing
-tr
-th
-td
-rowspan
+border, 
+Cellpadding,
+Cellspacing, 
+tr,
+th,
+td,
+rowspan,
 colspan
